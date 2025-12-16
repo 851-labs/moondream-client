@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    moondream-client (0.0.1)
+    moondream-client (0.0.2)
       base64
       faraday (>= 1)
 
